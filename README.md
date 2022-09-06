@@ -1,4 +1,4 @@
-- Hi, I’m @akaul09
+- Hi, I’m Ahyush Kaul
 - I’m interested in machine learning and data science
 - I’m currently learning python 
 - I’m looking to collaborate on any open projects that involve data science
